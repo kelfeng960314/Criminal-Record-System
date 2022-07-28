@@ -1,0 +1,57 @@
+    <style>   
+     p{     font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+     font-size: 16px;}
+
+       table, td {
+       padding: 0.3rem;
+       border: 1px solid black;
+       border-collapse: collapse;
+       text-align: left;
+       background-color: #FFB74C; 
+       color: #451ECC;
+       font-family: Tahoma, Arial, Helvetica, sans-serif;}
+       
+       th {
+            padding: 0.3rem;
+            background-color: #CC6E1E; 
+            color: #FFB74C; }
+       
+       h1 {
+            font-family: Charcoal, sans-serif;
+            color: #451ECC; } 
+       
+        form {
+            font-family: Arial, Helvetica, sans-serif;
+            color: #451ECC}
+    
+            input[type=text] {
+                width: 100%;
+                box-sizing: border-box;
+                border: 2px solid #ccc;
+                border-radius: 4px;
+                font-size: 16px;
+                background-color: white;
+                background-image: url('searchicon.png');
+                background-position: 10px 10px; 
+                background-repeat: no-repeat;
+                padding: 12px 20px 12px 40px;
+              }
+
+              input[type=submit] {
+                background-color: #2a19c4; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 16px;
+              }
+
+              body{
+                   background-color:blanchedalmond
+              }
+
+    </style>
